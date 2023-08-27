@@ -1,4 +1,4 @@
-Object detection using SSD Mobile Net v3(2020_01_14) with large_coco
+Object Detection using SSD MobileNet v3 (2020_01_14) with Large COCO
 
 ![Image of objects](/Road_Traffic.gif)
 
